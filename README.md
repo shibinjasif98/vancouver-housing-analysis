@@ -20,3 +20,17 @@ A data analytics project analyzing Vancouver housing affordability using public 
 - src: reusable scripts (cleaning, feature engineering)
 - reports: written findings
 - dashboards: Power BI/Tableau files
+
+## Project Scope
+
+This project analyzes housing affordability in Vancouver, Canada by comparing
+rental price trends with income growth from 2019 to 2024.
+
+Geographic Scope:
+- Vancouver Census Metropolitan Area (CMA)
+
+Key Question:
+- Has rental cost growth in Vancouver outpaced income growth?
+
+Primary Metric:
+- Rent-to-income ratio (affordability benchmark at 30%)
